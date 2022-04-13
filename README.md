@@ -1,7 +1,7 @@
 ### Hello everybody! 👋
 - I'm currently participating in the data science bootcamp of @neuefische :fish:
 - I'm highly interested in establishing a foothold in the field of data science :floppy_disk::mag:
-- By profession I'm a biologist :seedling:
+- By profession I'm a biologist, in the fields of biomechanics and biomimetics :seedling:
 
 <!--
 **PerfectFine/PerfectFine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
