@@ -1,6 +1,6 @@
 ### Hello everybody! 👋
-- I'm currently participating in the data science bootcamp of @neuefische :fish:
-- I'm highly interested in establishing a foothold in the field of data science :floppy_disk::mag:
+- I'm Max, a highly motivated Software Developer at Testo bioAnalytics, a small and very dynamic start-up 💻
+- I'm currently working on becoming a full stack developer :floppy_disk::mag:
 - By profession I'm a biologist, in the fields of biomechanics and biomimetics :seedling:
 
 <!--
