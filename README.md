@@ -1,5 +1,5 @@
 ### Hello everybody! 👋
-- I'm Max, a highly motivated software developer at Testo bioAnalytics, a small and very dynamic start-up company. 💻
+- I'm Max, a highly motivated software developer at a small and very dynamic start-up company. 💻
 - I'm currently working on becoming a full stack developer :floppy_disk::mag:
 - By profession I'm a biologist, in the fields of biomechanics and biomimetics :seedling:
 
